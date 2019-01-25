@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+.bg-dark {
+    background-color: #000000!important;
+    align-content: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 20px;
+}
+
+a.navbar-brand img {
+    width: 200px;
+}
+
+.jumbotron {
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 650px;
+    padding-top: 100px;
+}
+
+h1 {
+    align-content: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+.col-sm-2 {
+    text-align: center;
+}
+
+h2 {
+    align-content: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 30px;
+}
